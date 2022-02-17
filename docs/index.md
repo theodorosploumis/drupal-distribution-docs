@@ -19,12 +19,6 @@ You can use these Docs for your own purpose under [Open Publication License](htt
 - Docs on Github: [github.com/dropdog/docs](https://github.com/dropdog/docs)
 - Issues: [github.com/dropdog/docs/issues](https://github.com/dropdog/docs/issues)
 
-## Similar projects
-
-- [KIT Feature Specification](http://cgit.drupalcode.org/kit/tree/kitf.txt?id=refs/heads;id2=master)
-- [drupalorganised book](https://www.drupalorganised.com/content)
-- [D.O. official Docs](https://www.drupal.org/docs/8)
-
 ## Table of Contents
 
 - [Learn](learn)
@@ -42,7 +36,7 @@ You can use these Docs for your own purpose under [Open Publication License](htt
 ## Documentation License
 
 ```
-Copyright (c) 2016 - 2017 by Hostdog.eu.
+Copyright (c) 2016 - 2022 by Hostdog.eu.
 
 This material may be distributed only subject to the terms and conditions set
 forth in the Open Publication License, v1.0 or later (the latest version
